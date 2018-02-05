@@ -40,7 +40,7 @@ class MainApp extends React.PureComponent {
     return (
       <div className={styles.mainApp}>
         <MuleSoftHero
-          message="Welcome to MuleSoft!"
+          message="nanovazquez!"
         />
         <div className={styles.content}>
           <ApplicationsTable
