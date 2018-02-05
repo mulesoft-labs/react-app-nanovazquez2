@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-def name                = 'react-app'
+def name                = 'react-app-nanovazquez2'
 def usePrivateRegistry  = true
 def packagePath         = 'dist'
 
